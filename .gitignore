@@ -1,0 +1,17 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Pytest
+.pytest_cache/
+
+# VSCode or other IDEs (optional)
+.vscode/
+.idea/
+
+# macOS (optional)
+.DS_Store
+
+# Environment/config files (optional)
+.env
+*.log
